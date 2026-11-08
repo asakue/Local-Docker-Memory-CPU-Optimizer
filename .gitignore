@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+dist/
+
+# Logs
+*.log
+*.log.old
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
