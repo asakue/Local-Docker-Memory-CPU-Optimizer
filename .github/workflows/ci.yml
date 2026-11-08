@@ -28,3 +28,4 @@ jobs:
 
       - name: Build Binary
         run: go build -v .
+

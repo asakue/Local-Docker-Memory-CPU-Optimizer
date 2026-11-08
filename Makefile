@@ -22,3 +22,4 @@ summary:
 clean:
 	go clean
 	rm -f $(BINARY_NAME) $(BINARY_NAME).exe dockertrim.log
+
