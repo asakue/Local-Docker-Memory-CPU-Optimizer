@@ -1,7 +1,14 @@
-# 🐳 dockertrim
+# 🐳 dockertrim (Local Docker Memory & CPU Optimizer)
+
+[![Release](https://img.shields.io/github/v/release/asakue/Local-Docker-Memory-CPU-Optimizer?color=00D7D7&logo=github)](https://github.com/asakue/Local-Docker-Memory-CPU-Optimizer/releases)
+[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go&logoColor=white)](https://golang.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-7D56F4)]()
 
 > **Легковесная CLI/TUI-утилита для ресурсной гигиены Docker на локальной машине.**  
 > Обнаруживает забытые фоновые контейнеры («зомби»), утечки оперативной памяти и позволяет безопасно освобождать дисковое пространство без риска повредить локальные базы данных.
+
+[📥 **Скачать готовый исполняемый файл (v1.0.0)**](https://github.com/asakue/Local-Docker-Memory-CPU-Optimizer/releases/latest)
 
 ---
 
